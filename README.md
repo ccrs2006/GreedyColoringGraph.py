@@ -1,6 +1,6 @@
 # Python - Greedy Coloring Graph
 
-## This program colors each vertex making sure no neighborning vertex is colored the same.
+## This program colors each vertex making sure no connected neighboning vertex is colored the same.
 
 <img src="Images/1.JPG" width="300" >
   
