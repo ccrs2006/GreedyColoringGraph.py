@@ -25,11 +25,11 @@ The algorighm will ignore the Vertex if the color is the same to it's neigbor an
 
 ### Result
 * The result would be a graph with colored vertices where no neighbor matches the node next to it.
-Vertex 0 color =  Yellow
-Vertex 1 color =  Blue  
-Vertex 2 color =  Yellow
-Vertex 3 color =  Red
-Vertex 4 color =  Red
-Vertex 5 color =  Blue
+* Vertex 0 color =  Yellow
+* Vertex 1 color =  Blue  
+* Vertex 2 color =  Yellow
+* Vertex 3 color =  Red
+* Vertex 4 color =  Red
+* Vertex 5 color =  Blue
 
 <img src="Images/2.JPG" width="300">
